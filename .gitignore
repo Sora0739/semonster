@@ -1,4 +1,8 @@
 *.class
 .vscode/
+<<<<<<< HEAD
+.log/
+=======
 .gitignore/
+>>>>>>> main
 bin/
